@@ -22,7 +22,7 @@ class ResearchResponse(BaseModel):
 
 # initialize the LLM
 llm = ChatMistralAI(
-    api_key="x61fvDVTsUsDY14WX07tT1FGrm1RMCf4",
+    api_key="",
     model="mistral-large-latest"
 )
 
